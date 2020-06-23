@@ -1,0 +1,20 @@
+{
+  "name": "cypress-api",
+  "version": "1.0.0",
+  "description": "cypress-api-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Cypress"
+  ],
+  "author": "Livia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.8.0",
+    "prettier": "^2.0.5"
+  }
+}
